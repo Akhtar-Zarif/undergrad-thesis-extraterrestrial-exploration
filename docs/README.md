@@ -44,7 +44,6 @@ This repository contains the undergraduate thesis and project documentation for 
 ├── README.md
 └── .gitignore
 
-
 ### Acknowledgments
 - Dr. M. Tanseer Ali, Senior Assistant Professor, AIUB
 - Farhadur Arifin, Associate Professor, AIUB
