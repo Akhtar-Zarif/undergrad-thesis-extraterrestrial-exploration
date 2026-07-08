@@ -7,19 +7,19 @@ This repository contains the undergraduate thesis and project documentation for 
 
 ### Project Details
 - **Institution**: American International University - Bangladesh (AIUB)
-- **Faculty**: Faculty of Engineering
-- **Department**: Computer Engineering
+- **Faculty**: Faculty of Engineering (FE)
+- **Department**: Computer Engineering (CoE)
 - **Supervisor**: Dr. M. Tanseer Ali
 - **Semester**: Fall 2019-2020
 - **Date**: December, 2020
 
 ### Authors
-- Sauda Musharrat (ID: 16-32571-2)
-- Zarif Bin Akhtar (ID: 16-31398-1)
-- Maksudul Hasan Pranto (ID: 16-31969-2)
+- Sauda Musharrat 
+- Zarif Bin Akhtar 
+- Maksudul Hasan Pranto 
 
 ### Key Features
-- 🚀 **Computer Vision System**: Rock detection and segmentation using machine learning (88.8% accuracy)
+- 🚀 **Computer Vision System**: Rock detection and segmentation using machine learning 
 - 🔬 **Spectrophotometer**: LIBS-based instrument for elemental composition analysis
 - 💻 **Quantum Computing**: Experimental analysis using IBM quantum computers
 - 🤖 **Prototype Rover**: Custom-designed rover with integrated sensors
@@ -28,7 +28,7 @@ This repository contains the undergraduate thesis and project documentation for 
 - TensorFlow
 - OpenCV
 - YOLO
-- Raspberry Pi 4
+- Raspberry Pi 4 Model B
 - Coral USB Accelerator
 - IBM Quantum Experience
 
@@ -54,4 +54,4 @@ This repository contains the undergraduate thesis and project documentation for 
 This project is for academic reference. All rights reserved by the authors and AIUB.
 
 ### Contact
-For any queries regarding this research, please contact the authors through AIUB.
+For any queries regarding this research, please contact the authors.
