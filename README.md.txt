@@ -1,4 +1,4 @@
-# Scientific Exploration of Extraterrestrial Planets using Quantum Computing
+# Scientific Exploration of Extraterrestrial planets and Analysis using Quantum Computing
 
 ## Undergraduate Thesis Project
 
