@@ -37,13 +37,6 @@ This repository contains the undergraduate thesis and project documentation for 
 - **Spectrometer**: 60-65% accuracy in elemental identification
 - **Quantum Computing**: Successful demonstration of 'true' randomness using qubits
 
-### Project Structure
-├── docs/
-│ ├── thesis-full.pdf # Complete thesis document
-│ └── thesis-book.pdf # Thesis book format
-├── README.md
-└── .gitignore
-
 ### Acknowledgments
 - Dr. M. Tanseer Ali, Senior Assistant Professor, AIUB
 - Farhadur Arifin, Associate Professor, AIUB
